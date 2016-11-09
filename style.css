@@ -51,7 +51,7 @@ thead {
 thead > tr > td {
     border: 3px solid #DD5555;
 }
-ul > li {
+.social-links {
   display: inline-block;
   color: #DD5555;
   font-family: 'Alegreya', serif;
@@ -83,4 +83,8 @@ a:hover {
 
 #sidebar {
   background-color: #9A1515;
+  position: absolute;
+  color: white;
+
+
 }
