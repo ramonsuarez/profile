@@ -85,6 +85,6 @@ a:hover {
   background-color: #9A1515;
   position: absolute;
   color: white;
-
-
+  list-style: none;
+  text-decoration: none;
 }
