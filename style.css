@@ -55,6 +55,8 @@ thead > tr > td {
   display: inline-block;
   color: #DD5555;
   font-family: 'Alegreya', serif;
+  list-style: none;
+
 }
 
 a {
@@ -87,4 +89,10 @@ a:hover {
   color: white;
   list-style: none;
   text-decoration: none;
+  background-size: 100%
+  padding: 30%;
+  margin: 20px auto;
+}
+
+#footer{
 }
