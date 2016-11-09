@@ -83,9 +83,14 @@ a:hover {
   border-radius: 4px;
 }
 
-#sidebar {
+.sidebar {
   background-color: #9A1515;
-  position: absolute;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 120px;
+  text-align: center;
   color: white;
   list-style: none;
   text-decoration: none;
@@ -94,5 +99,5 @@ a:hover {
   margin: 20px auto;
 }
 
-#footer{
+.footer{
 }
