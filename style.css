@@ -54,13 +54,25 @@ thead > tr > td {
     border: 3px solid #DD5555;
 }
 .social-links {
-  display: inline-block;
-  color: #DD5555;
   font-family: 'Alegreya', serif;
-  list-style: none;
+}
+
+.social-links li {
+    display: inline-block;
+    list-style: none;
+    color: #DD5555;
 
 }
 
+.sidebar .social-links {
+  margin-top: 0px;
+  color: white;
+}
+
+.footer .social-links {
+  margin-left: 15px;
+  margin-right: 15px;
+}
 a {
   color: #C42F2F;
   text-decoration: none;
